@@ -6,7 +6,7 @@
  * Copyright (c) 2011, IBM Corporation
  */
 
-package com.phonegap.plugins.fileopener;
+package com.phonegap.cordova;
 
 import java.io.IOException;
 import org.apache.cordova.CallbackContext;
